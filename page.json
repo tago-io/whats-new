@@ -1,0 +1,24 @@
+{
+    "version": "4.7.1",
+    "date": "2020-22-03T18:14:00Z",
+    "features": [
+        {
+            "icon": "check-empty",
+            "iconColor": "#337ab7",
+            "iconSize": 50,
+            "title": "Rounder borders",
+            "desc": "Card-like elements will now have rounded corners instead of sharp corners.",
+        },
+        {
+            "icon": "search",
+            "image": "https://lh3.googleusercontent.com/proxy/8rLXGqV8Ws6nvur0ZWn7TBZWiloJkBomzPRQ-z5rExGeXGYO9EJh42oS5ZF8nbr2lUlrlA_WQRiiaDox9laiJbf37N0FD-DKBOk0j1aU64yYloo",
+            "title": "Dashboard Search",
+            "desc": "Use the dashboard search to quickly filter dashboards directly in the sidebar. This will help you quicly filter things.",
+        },
+        {
+            "image": "https://lh3.googleusercontent.com/proxy/8rLXGqV8Ws6nvur0ZWn7TBZWiloJkBomzPRQ-z5rExGeXGYO9EJh42oS5ZF8nbr2lUlrlA_WQRiiaDox9laiJbf37N0FD-DKBOk0j1aU64yYloo",
+            "title": "Table explosion",
+            "desc": "Tables will now explode when you click on them twice. This will help you when you need to apply the same behavior for the same row.",
+        }
+    ]
+}

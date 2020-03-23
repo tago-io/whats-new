@@ -1,10 +1,10 @@
 {
     "title": "What's new in TagoIO",
-    "date": "2020-03-22T18:18:00.000Z",
-    "changelog": false,
+    "date": "2020-03-22T18:19:00.000Z",
+    "changelog": true,
     "button": {
-        "color": "#283a48",
-        "text": "Got it"
+        "color": "#337ab7",
+        "text": "Got it!"
     },
     "features": [
         {

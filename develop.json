@@ -1,6 +1,7 @@
 {
     "title": "What's new in TagoIO",
     "date": "2020-03-22T18:17:00.000Z",
+    "changelog": true,
     "button": {
         "color": "#337ab7",
         "text": "Continue"

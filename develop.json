@@ -4,7 +4,7 @@
     "changelog": true,
     "button": {
         "color": "#337ab7",
-        "text": "Got it!"
+        "text": "Continue"
     },
     "features": [
         {

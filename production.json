@@ -1,0 +1,30 @@
+{
+    "title": "What's new in TagoIO",
+    "date": "2020-03-22T18:17:00.000Z",
+    "changelog": true,
+    "button": {
+        "color": "#337ab7",
+        "text": "Continue"
+    },
+    "features": [
+        {
+            "icon": "check-empty",
+            "iconSize": "45px",
+            "iconColor": "#337ab7",
+            "title": "Rounder borders",
+            "desc": "Card-like elements will now have rounded corners instead of sharp corners.",
+            "learnMore": "https://docs.tago.io/en/articles/6-arduino"
+        },
+        {
+            "icon": "th-list",
+            "iconColor": "#337ab7",
+            "title": "Shadow mode",
+            "desc": "Shadow mode was introduced, with it, you can build a single dashboard and mold it to serve for thousands of different users."
+        },
+        {
+            "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjExMDk0fQ&w=1000&q=80",
+            "title": "Dashboard Search",
+            "desc": "Use the dashboard search to quickly filter dashboards directly in the sidebar. This will help you quicly filter things."
+        }
+    ]
+}

@@ -1,6 +1,6 @@
 {
     "title": "What's new in TagoIO",
-    "date": "2020-03-22T18:19:00.000Z",
+    "date": "2020-04-04T13:14:00.000Z",
     "changelog": true,
     "button": {
         "color": "#337ab7",
@@ -8,23 +8,22 @@
     },
     "features": [
         {
-            "icon": "check-empty",
-            "iconSize": "45px",
+            "icon": "star",
             "iconColor": "#337ab7",
-            "title": "Rounder borders",
-            "desc": "Card-like elements will now have rounded corners instead of sharp corners.",
-            "learnMore": "https://docs.tago.io/en/articles/6-arduino"
+            "title": "What's new!",
+            "desc": "Introducing a system to indicate new features on Admin!"
         },
         {
-            "icon": "th-list",
+            "icon": "search",
             "iconColor": "#337ab7",
-            "title": "Shadow mode",
-            "desc": "Shadow mode was introduced, with it, you can build a single dashboard and mold it to serve for thousands of different users."
+            "title": "Dashboard quick search",
+            "desc": "Now you have the ability to quickly find a dashboard directly in the sidebar."
         },
         {
-            "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjExMDk0fQ&w=1000&q=80",
-            "title": "Dashboard Search",
-            "desc": "Use the dashboard search to quickly filter dashboards directly in the sidebar. This will help you quicly filter things."
+            "icon": "gauge",
+            "iconColor": "#337ab7",
+            "title": "New Gauges!",
+            "desc": "Our gauges were completely redesigned from scratch in order to give you better functionality and user-experience."
         }
     ]
 }

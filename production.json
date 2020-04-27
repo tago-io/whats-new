@@ -1,6 +1,6 @@
 {
     "title": "What's new in TagoIO",
-    "date": "2020-04-15T11:54:00.000Z",
+    "date": "2020-04-27T14:20:00.001Z",
     "changelog": true,
     "button": {
         "color": "#337ab7",
@@ -8,22 +8,16 @@
     },
     "features": [
         {
-            "icon": "star",
+            "icon": "mqtt",
             "iconColor": "#337ab7",
-            "title": "What's new!",
-            "desc": "Introducing a system to indicate new features on Admin!"
+            "title": "MQTT Topic",
+            "desc": "Introducing a new type of action: MQTT Topic!"
         },
         {
-            "icon": "search",
+            "icon": "iframe",
             "iconColor": "#337ab7",
-            "title": "Dashboard quick search",
-            "desc": "Now you have the ability to quickly find a dashboard directly in the sidebar."
-        },
-        {
-            "icon": "gauge",
-            "iconColor": "#337ab7",
-            "title": "New Gauges!",
-            "desc": "Our gauges were completely redesigned from scratch in order to give you better functionality and user-experience."
+            "title": "Custom Widget",
+            "desc": "Introducing a brand new Custom widget! Build your own widgets with it!"
         }
     ]
 }

@@ -14,10 +14,10 @@
             "desc": "Introducing a new type of action: MQTT Topic!"
         },
         {
-            "icon": "gauge",
+            "icon": "iframe",
             "iconColor": "#337ab7",
             "title": "Custom Widget",
-            "desc": "Introducing a brand new Custom widget! You can build your own widgets with it!"
+            "desc": "Introducing a brand new Custom widget! Build your own widgets with it!"
         }
     ]
 }

@@ -1,6 +1,6 @@
 {
     "title": "What's new in TagoIO",
-    "date": "2020-04-27T14:21:00.001Z",
+    "date": "2020-05-19T14:21:00.001Z",
     "changelog": true,
     "button": {
         "color": "#337ab7",
@@ -8,16 +8,10 @@
     },
     "features": [
         {
-            "icon": "mqtt",
+            "icon": "brush",
             "iconColor": "#337ab7",
-            "title": "MQTT Topic",
-            "desc": "Introducing a new type of action: MQTT Topic!"
-        },
-        {
-            "icon": "iframe",
-            "iconColor": "#337ab7",
-            "title": "Custom Widget",
-            "desc": "Introducing a brand new Custom widget! Build your own widgets with it!"
+            "title": "Branding your IoT solution is now free!",
+            "desc": "Now you can customize your TagoRUN by adding your own brand inside the platform, signup, and mobile App at no additional cost, even if you have a Free account."
         }
     ]
 }

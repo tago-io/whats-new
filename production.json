@@ -1,6 +1,6 @@
 {
     "title": "What's new in TagoIO",
-    "date": "2020-05-19T14:21:00.001Z",
+    "date": "2020-07-01T13:30:00.001Z",
     "changelog": true,
     "button": {
         "color": "#337ab7",
@@ -8,10 +8,16 @@
     },
     "features": [
         {
-            "icon": "brush",
+            "icon": "blueprint",
             "iconColor": "#337ab7",
-            "title": "Branding your IoT solution is now free!",
-            "desc": "Now you can customize your TagoRUN by adding your own brand inside the platform, signup, and mobile App at no additional cost, even if you have a Free account."
+            "title": "New dashboard type: Blueprint!",
+            "desc": "Blueprint allows linking widgets to multiple devices dynamically, ideal for scaling up applications."
+        },
+        {
+            "icon": "maximize",
+            "iconColor": "#337ab7",
+            "title": "New widget capabilities",
+            "desc": "For blueprint dashboards, there are brand new widget edit features and capabilities, such as allowing widgets to be transparent!"
         }
     ]
 }

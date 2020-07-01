@@ -1,6 +1,6 @@
 {
     "title": "What's new in TagoIO",
-    "date": "2020-07-01T10:00:00.001Z",
+    "date": "2020-07-01T11:30:00.001Z",
     "changelog": true,
     "button": {
         "color": "#337ab7",
@@ -16,8 +16,8 @@
         {
             "icon": "maximize",
             "iconColor": "#337ab7",
-            "title": "New widget edit capabilities",
-            "desc": "For blueprint dashboards, there are brand new Widget edit features and capabilities, such as allowing widgets to be transparent!"
+            "title": "New widget capabilities",
+            "desc": "For blueprint dashboards, there are brand new widget edit features and capabilities, such as allowing widgets to be transparent!"
         }
     ]
 }

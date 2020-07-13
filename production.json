@@ -1,6 +1,6 @@
 {
     "title": "What's new in TagoIO",
-    "date": "2020-07-01T13:30:00.001Z",
+    "date": "2020-07-13T13:11:00.001Z",
     "changelog": true,
     "button": {
         "color": "#337ab7",
@@ -8,16 +8,10 @@
     },
     "features": [
         {
-            "icon": "blueprint",
+            "icon": "cube",
             "iconColor": "#337ab7",
-            "title": "New dashboard type: Blueprint!",
-            "desc": "Blueprint allows linking widgets to multiple devices dynamically, ideal for scaling up applications."
-        },
-        {
-            "icon": "maximize",
-            "iconColor": "#337ab7",
-            "title": "New widget capabilities",
-            "desc": "For blueprint dashboards, there are brand new widget edit features and capabilities, such as allowing widgets to be transparent!"
+            "title": "New Blueprint Widgets!",
+            "desc": "In this update we have added 4 new widgets to the Blueprint widget gallery: Clock, Push button, Step button, Custom.<br/><br/> Blueprint allows linking widgets to multiple devices dynamically, ideal for scaling up applications.<br/><br/>More widgets coming soon!"
         }
     ]
 }

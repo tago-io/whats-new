@@ -10,7 +10,7 @@
         {
             "icon": "blueprint",
             "iconColor": "#337ab7",
-            "title": "New dashboard type: Blueprint!",
+            "title": "Check out our Blueprint dashboards!",
             "desc": "Blueprint allows linking widgets to multiple devices dynamically, ideal for scaling up applications."
         },
         {
@@ -36,6 +36,6 @@
             "iconColor": "#337ab7",
             "title": "New widget capabilities",
             "desc": "For blueprint dashboards, there are brand new widget edit features and capabilities, such as allowing widgets to be transparent!"
-        },
+        }
     ]
 }

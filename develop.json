@@ -10,32 +10,8 @@
         {
             "icon": "blueprint",
             "iconColor": "#337ab7",
-            "title": "Check out our Blueprint dashboards!",
-            "desc": "Blueprint allows linking widgets to multiple devices dynamically, ideal for scaling up applications."
-        },
-        {
-            "icon": "maximize",
-            "iconColor": "#337ab7",
-            "title": "New widget capabilities",
-            "desc": "For blueprint dashboards, there are brand new widget edit features and capabilities, such as allowing widgets to be transparent!"
-        },
-        {
-            "icon": "maximize",
-            "iconColor": "#337ab7",
-            "title": "New widget capabilities",
-            "desc": "For blueprint dashboards, there are brand new widget edit features and capabilities, such as allowing widgets to be transparent!"
-        },
-        {
-            "icon": "maximize",
-            "iconColor": "#337ab7",
-            "title": "New widget capabilities",
-            "desc": "For blueprint dashboards, there are brand new widget edit features and capabilities, such as allowing widgets to be transparent!"
-        },
-        {
-            "icon": "maximize",
-            "iconColor": "#337ab7",
-            "title": "New widget capabilities",
-            "desc": "For blueprint dashboards, there are brand new widget edit features and capabilities, such as allowing widgets to be transparent!"
+            "title": "New Blueprint Widgets!",
+            "desc": "Blueprint allows linking widgets to multiple devices dynamically, ideal for scaling up applications. In this update we have added 4 new widgets to the Blueprint widget gallery!"
         }
     ]
 }

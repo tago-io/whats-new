@@ -1,6 +1,6 @@
 {
     "title": "What's new in TagoIO",
-    "date": "2020-07-13T13:11:00.001Z",
+    "date": "2020-09-23T18:47:00.001Z",
     "changelog": true,
     "button": {
         "color": "#337ab7",
@@ -8,10 +8,25 @@
     },
     "features": [
         {
-            "icon": "cube",
+            "icon": "device",
             "iconColor": "#337ab7",
-            "title": "New Blueprint Widgets!",
-            "desc": "In this update we have added 4 new widgets to the Blueprint widget gallery: Clock, Push button, Step button, Custom.<br/><br/> Blueprint allows linking widgets to multiple devices dynamically, ideal for scaling up applications.<br/><br/>More widgets coming soon!"
+            "title": "New Connector selection!",
+            "learnMore": "https://admin.tago.io/connectors",
+            "desc": "Find the perfect device using our new Connector selection screen! Filter the Connectors by name, description or even Network!"
+        },
+        {
+            "icon": "net2",
+            "iconColor": "#337ab7",
+            "title": "Create your own Connectors",
+            "learnMore": "https://admin.tago.io/integrations/connector",
+            "desc": "Now you can create your own Connectors that will appear in the Connector selection screen!"
+        },
+        {
+            "icon": "globe-1",
+            "iconColor": "#337ab7",
+            "title": "Create your own Networks",
+            "learnMore": "https://admin.tago.io/integrations/network",
+            "desc": "You can also create Networks integrations and associate Connectors to them!"
         }
     ]
 }

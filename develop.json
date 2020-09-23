@@ -1,6 +1,6 @@
 {
     "title": "What's new in TagoIO",
-    "date": "2020-09-23T18:05:00.001Z",
+    "date": "2020-09-23T18:10:00.001Z",
     "changelog": true,
     "button": {
         "color": "#337ab7",
@@ -8,11 +8,25 @@
     },
     "features": [
         {
-            "icon": "connector2",
+            "icon": "device",
             "iconColor": "#337ab7",
             "title": "New Connector Selection!",
             "learnMore": "https://admin.tago.io/connectors",
-            "desc": "Find the perfect device using our new connector selection screen! Filter the Connectors by Name, Description or even Network!"
+            "desc": "Find the perfect Device using our new Connector selection screen! Filter the Connectors by name, description or even Network!"
+        },
+        {
+            "icon": "net2",
+            "iconColor": "#337ab7",
+            "title": "Create your own Connectors!",
+            "learnMore": "https://admin.tago.io/integrations/connector",
+            "desc": "Now you can create your own Connectors that will appear in the Connector Selection screen, saving you the trouble to manually fill the information of your devices everytime!"
+        },
+        {
+            "icon": "network",
+            "iconColor": "#337ab7",
+            "title": "Create your own Networks!",
+            "learnMore": "https://admin.tago.io/integrations/network",
+            "desc": "You can also create Networks integrations and associate Connectors to them!"
         }
     ]
 }

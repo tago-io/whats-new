@@ -1,12 +1,19 @@
 {
     "title": "What's new in TagoIO",
-    "date": "2020-09-23T18:10:00.001Z",
+    "date": "2021-01-05T17:21:49.712Z",
     "changelog": true,
     "button": {
         "color": "#337ab7",
         "text": "Continue"
     },
     "features": [
+        {
+            "icon": "blueprint",
+            "iconColor": "#337ab7",
+            "title": "Map and Image Marker Blueprint widgets",
+            "learnMore": "https://admin.tago.io/integrations/network",
+            "desc": "Now you can also use the 'Map' and 'Image Marker' widgets on Blueprint dashboards!"
+        },
         {
             "icon": "device",
             "iconColor": "#337ab7",
@@ -20,13 +27,6 @@
             "title": "Create your own Connectors!",
             "learnMore": "https://admin.tago.io/integrations/connector",
             "desc": "Now you can create your own Connectors that will appear in the Connector Selection screen, saving you the trouble to manually fill the information of your devices everytime!"
-        },
-        {
-            "icon": "network",
-            "iconColor": "#337ab7",
-            "title": "Create your own Networks!",
-            "learnMore": "https://admin.tago.io/integrations/network",
-            "desc": "You can also create Networks integrations and associate Connectors to them!"
         }
     ]
 }

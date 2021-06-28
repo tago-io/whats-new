@@ -1,6 +1,6 @@
 {
     "title": "What's new in TagoIO",
-    "date": "2021-01-05T17:21:49.712Z",
+    "date": "2021-06-28T15:55:00.000Z",
     "changelog": true,
     "button": {
         "color": "#337ab7",
@@ -10,23 +10,14 @@
         {
             "icon": "blueprint",
             "iconColor": "#337ab7",
-            "title": "Map and Image Marker Blueprint widgets!",
-            "learnMore": "https://admin.tago.io/dashboards",
-            "desc": "Now you can also use the 'Map' and 'Image Marker' widgets on Blueprint dashboards!"
+            "title": "Blueprint Template",
+            "desc": "Share dashboards with anyone by allowing them to start out from your template or replicate a dashboard between different profiles!"
         },
         {
-            "icon": "device",
+            "icon": "desktop",
             "iconColor": "#337ab7",
-            "title": "New Connector Selection!",
-            "learnMore": "https://admin.tago.io/connectors",
-            "desc": "Find the perfect Device using our new Connector selection screen! Filter the Connectors by name, description or even Network!"
-        },
-        {
-            "icon": "net2",
-            "iconColor": "#337ab7",
-            "title": "Create your own Connectors!",
-            "learnMore": "https://admin.tago.io/integrations/connector",
-            "desc": "Now you can create your own Connectors that will appear in the Connector Selection screen, saving you the trouble to manually fill the information of your devices everytime!"
+            "title": "New Emulator Features",
+            "desc": "The new device emulator introduces Functions that you can insert into your payload and a Timer to automate your simulation!"
         }
     ]
 }

@@ -1,6 +1,6 @@
 {
     "title": "What's new in TagoIO",
-    "date": "2021-06-28T15:55:00.000Z",
+    "date": "2021-07-06T15:55:00.000Z",
     "changelog": true,
     "button": {
         "color": "#337ab7",
@@ -10,14 +10,14 @@
         {
             "icon": "blueprint",
             "iconColor": "#337ab7",
-            "title": "Blueprint Template",
-            "desc": "Share dashboards with anyone by allowing them to start out from your template or replicate a dashboard between different profiles!"
+            "title": "New Normal Dashboards",
+            "desc": "Dashboards are now created in the new version by default, and your normal Dashboards can be converted with the click of a button!"
         },
         {
-            "icon": "desktop",
+            "icon": "home",
             "iconColor": "#337ab7",
-            "title": "New Emulator Features",
-            "desc": "The new device emulator introduces Functions that you can insert into your payload and a Timer to automate your simulation!"
+            "title": "New Home Page",
+            "desc": "The Home page is now cleaner and more modern while still providing an informative overview!"
         }
     ]
 }

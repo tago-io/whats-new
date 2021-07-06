@@ -1,6 +1,6 @@
 {
     "title": "What's new in TagoIO",
-    "date": "2021-07-06T15:55:00.000Z",
+    "date": "2021-07-06T16:22:00.000Z",
     "changelog": true,
     "button": {
         "color": "#337ab7",
@@ -8,16 +8,16 @@
     },
     "features": [
         {
-            "icon": "blueprint",
+            "icon": "th-large",
             "iconColor": "#337ab7",
-            "title": "New Normal Dashboards",
-            "desc": "Dashboards are now created in the new version by default, and your normal Dashboards can be converted with the click of a button!"
+            "title": "New Dashboard Version",
+            "desc": "Normal dashboards are now created in the new version by default, and your Normal dashboards can be converted with the click of a button!"
         },
         {
             "icon": "home",
             "iconColor": "#337ab7",
             "title": "New Home Page",
-            "desc": "The Home page is now cleaner and more modern while still providing an informative overview!"
+            "desc": "The home page is now cleaner and more modern, while still providing an informative overview!"
         }
     ]
 }

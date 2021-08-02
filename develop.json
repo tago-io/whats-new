@@ -16,14 +16,8 @@
         {
             "icon": "lock",
             "iconColor": "#337ab7",
-            "title": "2FA",
+            "title": "Two-Factor Authentication",
             "desc": "Admin just got a whole more secure by introducing Two-Factor Authentication to your login! Check you Account page for more information."
-        },
-        {
-            "icon": "compass",
-            "iconColor": "#337ab7",
-            "title": "New Explore page",
-            "desc": "The new Explore page allows you to add new simulator devices that come with a brand new Dashboard!"
         }
     ]
 }

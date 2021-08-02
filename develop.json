@@ -1,6 +1,6 @@
 {
     "title": "What's new in TagoIO",
-    "date": "2021-07-06T16:27:00.000Z",
+    "date": "2021-08-02T16:27:00.000Z",
     "changelog": true,
     "button": {
         "color": "#337ab7",
@@ -8,22 +8,22 @@
     },
     "features": [
         {
-            "icon": "th-large",
+            "icon": "cabinet-filing",
             "iconColor": "#337ab7",
-            "title": "New Normal Dashboards",
-            "desc": "Normal dashboards are now created in the new version by default, and your Normal dashboards can be converted with the click of a button!"
+            "title": "Files Redesign",
+            "desc": "The Files page has a brand new look and a bunch of new features, such as drag-and-drop and renaming folders!"
         },
         {
-            "icon": "home",
+            "icon": "lock",
             "iconColor": "#337ab7",
-            "title": "Redesigned Home",
-            "desc": "The home page is now cleaner and more modern, while still providing an informative overview!"
+            "title": "2FA",
+            "desc": "Admin just got a whole more secure by introducing Two-Factor Authentication to your login! Check you Account page for more information."
         },
         {
-            "icon": "desktop",
+            "icon": "compass",
             "iconColor": "#337ab7",
-            "title": "New Emulator Features",
-            "desc": "The new device emulator introduces functions that you can insert into your payload and a timer to automate your simulation!"
+            "title": "New Explore page",
+            "desc": "The new Explore page allows you to add new simulator devices that come with a brand new Dashboard!"
         }
     ]
 }

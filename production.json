@@ -17,7 +17,7 @@
             "icon": "lock",
             "iconColor": "#337ab7",
             "title": "Two-Factor Authentication",
-            "desc": "Admin just got a whole lot more secure by introducing Two-Factor Authentication to your login! Check you Account page for more information."
+            "desc": "Admin just got a whole lot more secure by introducing Two-Factor Authentication to your login! Check your Account page for more information."
         }
     ]
 }

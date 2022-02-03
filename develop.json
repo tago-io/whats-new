@@ -1,6 +1,6 @@
 {
     "title": "What's new in TagoIO",
-    "date": "2022-02-03T16:14:00.000Z",
+    "date": "2022-02-03T16:17:00.000Z",
     "changelog": true,
     "button": {
         "color": "#337ab7",
@@ -8,10 +8,10 @@
     },
     "features": [
         {
-            "icon": "user",
+            "icon": "sliders",
             "iconColor": "#337ab7",
             "title": "New Allocation System",
-            "desc": "Now you can pay less for more! Whenever you pay for a tier you can allocate resources freely between your profiles"
+            "desc": "Now you can pay less for more! Whenever you pay for a tier you can allocate resources freely between your profiles."
         },
         {
             "icon": "user",
@@ -20,7 +20,7 @@
             "desc": "You no longer have to worry about Profile costs! Each plan has a fixed amount of built-in Profile seats."
         },
         {
-            "icon": "lock",
+            "icon": "down-circled",
             "iconColor": "#337ab7",
             "title": "Downgrade it yourself",
             "desc": "Now you have the ability to downgrade your profile's resources without opening a ticket!"

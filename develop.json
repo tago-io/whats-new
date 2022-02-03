@@ -1,6 +1,6 @@
 {
     "title": "What's new in TagoIO",
-    "date": "2021-08-02T17:00:00.000Z",
+    "date": "2022-02-03T15:58:00.000Z",
     "changelog": true,
     "button": {
         "color": "#337ab7",
@@ -8,16 +8,16 @@
     },
     "features": [
         {
-            "icon": "cabinet-filing",
+            "icon": "user",
             "iconColor": "#337ab7",
-            "title": "Files Redesign",
-            "desc": "The Files page has a brand new look and a bunch of new features, such as drag-and-drop and renaming folders!"
+            "title": "No More Charges per Profile",
+            "desc": "You now have a certain amount of profiles that are free to use! The amount of profiles depends on your plan."
         },
         {
             "icon": "lock",
             "iconColor": "#337ab7",
-            "title": "Two-Factor Authentication",
-            "desc": "Admin just got a whole more secure by introducing Two-Factor Authentication to your login! Check you Account page for more information."
+            "title": "Downgrade",
+            "desc": "Now you have the ability to downgrade your profile's resources without opening a ticket!"
         }
     ]
 }

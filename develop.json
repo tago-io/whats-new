@@ -1,6 +1,6 @@
 {
     "title": "What's new in TagoIO",
-    "date": "2022-06-16T15:00:00.000Z",
+    "date": "2022-06-16T15:00:00.001Z",
     "changelog": true,
     "button": {
         "color": "#337ab7",
@@ -8,7 +8,7 @@
     },
     "features": [
         {
-            "icon": "mountain",
+            "icon": "cubes",
             "iconColor": "#337ab7",
             "title": "Chunk Management",
             "desc": "You can now manage chunks in your Immutable devices, view the amount of data in each of the chunks, delete chunks, and export a chunk directly to TagoIO Files!"
@@ -20,7 +20,7 @@
             "desc": "Allocating your services between your profiles is now easier, as you can refer to your daily usage statistics from the current and previous month when editing!"
         },
         {
-            "icon": "cubes",
+            "icon": "pencil",
             "iconColor": "#337ab7",
             "title": "Manage Mutable Devices' Data",
             "desc": "Editing and deleting data records in your Mutable devices can now be done directly on Admin!"

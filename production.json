@@ -1,6 +1,6 @@
 {
     "title": "What's new in TagoIO",
-    "date": "2022-02-03T16:50:00.000Z",
+    "date": "2022-06-16T15:00:00.001Z",
     "changelog": true,
     "button": {
         "color": "#337ab7",
@@ -8,22 +8,22 @@
     },
     "features": [
         {
+            "icon": "cubes",
+            "iconColor": "#337ab7",
+            "title": "Chunk Management",
+            "desc": "You can now manage chunks in your Immutable devices, view the amount of data in each of the chunks, delete chunks, and export a chunk directly to TagoIO Files!"
+        },
+        {
             "icon": "sliders",
             "iconColor": "#337ab7",
-            "title": "New Allocation System",
-            "desc": "Now you can pay less for more! Whenever you pay for a tier you can allocate resources freely between your profiles."
+            "title": "Better Resource Allocation",
+            "desc": "Allocating your services between your profiles is now easier, as you can refer to your daily usage statistics from the current and previous month when editing!"
         },
         {
-            "icon": "user",
+            "icon": "pencil",
             "iconColor": "#337ab7",
-            "title": "No More Charges per Profile",
-            "desc": "You no longer have to worry about Profile costs! Each plan has a fixed amount of built-in Profile seats."
-        },
-        {
-            "icon": "down-circled",
-            "iconColor": "#337ab7",
-            "title": "Downgrade it yourself",
-            "desc": "Now you have the ability to downgrade your profile's resources without opening a ticket!"
+            "title": "Manage Mutable Devices' Data",
+            "desc": "Editing and deleting data records in your Mutable devices can now be done directly on Admin!"
         }
     ]
 }
